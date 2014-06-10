@@ -115,8 +115,8 @@ module DataShift
 end
 
 module DataShift
- module Logging
- end
+  module Logging
+  end
 end
 
 DataShift::require_libraries
