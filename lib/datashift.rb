@@ -114,6 +114,11 @@ module DataShift
   
 end
 
+module DataShift
+ module Logging
+ end
+end
+
 DataShift::require_libraries
 
 require 'datashift/guards'
